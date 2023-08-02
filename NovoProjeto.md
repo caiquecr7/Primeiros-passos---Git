@@ -1,0 +1,1 @@
+Novo teste para git, dessa vez, adicionando um novo arquivo
